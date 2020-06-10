@@ -61,3 +61,28 @@ E:\Solution\Source Code\trung tam tac quyen am nhac\TH_solution\Demo\VCPMC_Repor
 E:\Solution\Source Code\trung tam tac quyen am nhac\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.csproj.CopyComplete
 E:\Solution\Source Code\trung tam tac quyen am nhac\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.exe
 E:\Solution\Source Code\trung tam tac quyen am nhac\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.pdb
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\TH.Demo.VCPMC_Report.exe.config
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\TH.Demo.VCPMC_Report.exe
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\TH.Demo.VCPMC_Report.pdb
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\BouncyCastle.Crypto.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\FileHelpers.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\FileHelpers.ExcelNPOIStorage.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\FileHelpers.ExcelStorage.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\LumenWorks.Framework.IO.pdb
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\LumenWorks.Framework.IO.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\Newtonsoft.Json.pdb
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\bin\Debug\Newtonsoft.Json.xml
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.csprojAssemblyReference.cache
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.common.FileName.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.frmAbout.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.frmConfig.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.frmLogin.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.frmMain.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\VCPMC_Report.Properties.Resources.resources
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.csproj.GenerateResource.cache
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.csproj.CoreCompileInputs.cache
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.csproj.CopyComplete
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.exe
+E:\Solution\Source Code\VCPMC_masterListDataReport\TH_solution\Demo\VCPMC_Report\obj\Debug\TH.Demo.VCPMC_Report.pdb

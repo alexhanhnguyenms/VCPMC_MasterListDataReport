@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<ConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>File4_non_vi.xml</FileName>
+  <LastTimeEdit>2020-05-31T10:34:10.2808788+07:00</LastTimeEdit>
+  <User>Admin</User>
+  <configItems>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>0</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value />
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN WRITER (999990)</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>PUBLISHER UNKNOWN/WRITER UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>na -</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>N/A</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>#unknown#</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>PUBLISHER UNKNOWN WRITER UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>null</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>/</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>(unknown composer)</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>-</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>−</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>..</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>?/ ??????; ????????</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>?S</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>_____ ________</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>_____ _________</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN WRITER</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN COMPOSER AUTHOR</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>Unknown Writer</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>Unknow Composer</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value>0</Value>
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value />
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value>#NAME</Value>
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+  </configItems>
+  <viDetectItems />
+</ConfigFile>

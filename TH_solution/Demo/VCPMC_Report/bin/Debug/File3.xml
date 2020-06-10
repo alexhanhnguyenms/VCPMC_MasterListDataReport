@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>File3.xml</FileName>
+  <LastTimeEdit>2020-05-31T10:34:10.2558795+07:00</LastTimeEdit>
+  <User>Admin</User>
+  <configItems>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value>0</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value />
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+  </configItems>
+  <viDetectItems />
+</ConfigFile>

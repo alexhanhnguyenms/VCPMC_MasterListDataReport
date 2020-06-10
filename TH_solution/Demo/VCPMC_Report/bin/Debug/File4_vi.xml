@@ -1,0 +1,694 @@
+<?xml version="1.0"?>
+<ConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>File4_vi.xml</FileName>
+  <LastTimeEdit>2020-05-31T10:34:10.26488+07:00</LastTimeEdit>
+  <User>Admin</User>
+  <configItems>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>0</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value />
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN WRITER (999990)</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>PUBLISHER UNKNOWN/WRITER UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>na -</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>N/A</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>#unknown#</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>PUBLISHER UNKNOWN WRITER UNKNOWN</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>null</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>/</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>(unknown composer)</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>-</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>−</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>..</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>?/ ??????; ????????</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>?S</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>_____ ________</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>_____ _________</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN WRITER</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>UNKNOWN COMPOSER AUTHOR</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>Unknown Writer</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_WRITERS</ColumnName>
+      <Value>Unknow Composer</Value>
+      <Order>0</Order>
+      <IsCheck>true</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value>0</Value>
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value />
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+    <ConfigItem>
+      <ColumnName>COMP_ISWC</ColumnName>
+      <Value>#NAME</Value>
+      <Order>0</Order>
+      <IsCheck>false</IsCheck>
+    </ConfigItem>
+  </configItems>
+  <viDetectItems>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>VN</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>US</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>VG</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>QM</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>CI</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>FR</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>GB</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>ES</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>BG</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>CA</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>DE</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>IT</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>HK</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>QZ</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>NO</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>RU</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>SE</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>TC</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>TW</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>ISRC</ColumnName>
+      <Value>CH</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Lang Van</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Làng Văn</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thuy Nga</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thúy Nga</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thuy Nga Production</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thúy Anh</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Rang Dong</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>RANGDONG</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>RangDong</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Rang Dong INC</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Mimosa</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Kim Ngân</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>AudioSparx (some)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Bai Hat Ru Cho Anh</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>VNG</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Young Hit Young Beat</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Elvis Phương</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Walt Disney Records (some)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>LIDIO – SafeMUSE Sounds</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Amy Music</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>SAIGON VAFACO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Saigon Broadcasting Television Network</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Kawaiibi</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Inédit / Maison des cultures du monde</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Người Đẹp Bình Dương</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Kiều Thơ Mellow</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>DONG GIAO PRO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Buda musique (some)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>TÂN HIỆP PHÁT</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Caprice (some)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Y Phuong</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Horus Music Distribution (some)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>1789537 Records DK</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thang Long AV</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Nho oi</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Lệ Hằng</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>TN Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>JLP</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Ho Entertainment &amp; Events JSC</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>A Fang Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>iMusician Digital</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>DONG GIAO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Dang Khoi</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Dihavina</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Doremi</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Future Arts Production</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Great Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Hãng Đĩa Thời Đại (Times Records)</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Ho Entertainment &amp; Events</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Kawaiibi</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Kim Ngân</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>MT Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Người Đẹp Bình Dương Gold</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>SÀI GÒN VAFACO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>SAI GON VAFACO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>SÀI GÒN – VAFACO</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>SAIGON VAFACO.</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Thăng Long AV</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Vega Media</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>VNG</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>TN Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Dong Dao</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Dong Dao 2007</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Best Of HKT</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Do Bao</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Wepro Entertainment</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>LABEL</ColumnName>
+      <Value>Tuan Trinh Production</Value>
+      <Order>2</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+    <ViDetectItem>
+      <ColumnName>TITLE</ColumnName>
+      <Value>(vietnamese)</Value>
+      <Order>1</Order>
+      <IsCheck>true</IsCheck>
+    </ViDetectItem>
+  </viDetectItems>
+</ConfigFile>

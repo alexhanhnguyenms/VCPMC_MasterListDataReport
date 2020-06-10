@@ -1,0 +1,11 @@
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\bin\Debug\TH.Test.ReportViewerTest.exe.config
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\bin\Debug\TH.Test.ReportViewerTest.exe
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\bin\Debug\TH.Test.ReportViewerTest.pdb
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.csprojAssemblyReference.cache
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.frmMain.resources
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.Properties.Resources.resources
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.csproj.GenerateResource.cache
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.csproj.CoreCompileInputs.cache
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.exe
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.pdb
+F:\trung tam tac quyen am nhac\TH_solution\Test\TH.Test.ReportViewerTest\obj\Debug\TH.Test.ReportViewerTest.frmReport.resources
